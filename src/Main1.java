@@ -94,7 +94,7 @@ public class Main1 {
     }
 
     // Read the drivers from the file
-    List<Driver> drivers = readDriversFromFile("C:\\Users\\Jared\\IdeaProjects\\Capstone1\\src\\drivers.txt");
+    List<Driver> drivers = readDriversFromFile("drivers.txt");
 
     // Print the invoice and save it to a text file
     printInvoice(customer, burgerOrder, pizzaOrder, brownieOrder, drivers);
@@ -139,7 +139,7 @@ public class Main1 {
   // Method to print the invoice and save it to a text file
   public static void printInvoice(Customer customer, Burger burgerOrder, Pizza pizzaOrder, Brownie brownieOrder, List<Driver> drivers) {
     try {
-      FileWriter fileWriter = new FileWriter("C:\\Users\\Jared\\IdeaProjects\\Capstone1\\src\\invoice.txt");
+      FileWriter fileWriter = new FileWriter("invoice.txt");
       PrintWriter printWriter = new PrintWriter(fileWriter);
 
       StringBuilder invoice = new StringBuilder();

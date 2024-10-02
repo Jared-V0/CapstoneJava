@@ -1,28 +1,22 @@
 
 === INVOICE ===
-Order Number: 234
-Customer: aslkdfns
-Email: f32r982h3
-Phone Number: 923478532\
+Order Number: 12312
+Customer: Jared
+Email: javelsnky@gmial.com
+Phone Number: 239487324
 Location: Cape Town
-
-You have ordered the following from Good Eats in 123 Food St:
 
 --- Burger Order ---
 Cheeseburger - $5
 
 --- Pizza Order ---
-Margherita - $8
-
---- Brownie Order ---
-Classic Brownie - $3
+Veggie Pizza - $7
+Pepperoni - $9
 
 Miranda Metcalfe is the nearest driver to the restaurant and so they will be delivering your order to you at: 
-r3209rh
-If you need to contact the restaurant, their number is: 065122342342
+8 Waterloo Road
 
 Special Preparation for Burger: 
 Special Preparation for Pizza: 
-Special Preparation for Brownie: 
 
-Total Amount Due: $16
+Total Amount Due: $21
