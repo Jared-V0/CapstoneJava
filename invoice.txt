@@ -1,0 +1,21 @@
+
+=== INVOICE ===
+Order Number: 22342
+Customer: JAred
+Email: dwdaw
+Phone Number: 983742
+Location: Cape Town
+
+--- Burger Order ---
+Cheeseburger - $5
+Chicken Burger - $6
+
+--- Pizza Order ---
+Margherita - $8
+
+We are sorry, but no drivers are currently available in your area.
+
+Special Preparation for Burger: 
+Special Preparation for Pizza: 
+
+Total Amount Due: $19
